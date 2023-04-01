@@ -8,6 +8,6 @@
 
 	function wazona_srednia(int a, int b)
 	{
-		return (8*a+2*b)/10;
+		return (9*a+1*b)/10;
 	}
 ?>
